@@ -1,35 +1,28 @@
 # chatbot Application
-Chatbot is a full-stack web application that allows users to chat in real-time and get automated responses. It is responsive and easy to use.
+
+Chatbot is a full-stack web app that allows users to chat in real-time and get automated responses. It is easy to use and responsive.
 
 Features
-Real-time chat with automated responses
-Responsive design for web platforms
+
+Real-time chat with automated replies
+
+Responsive web interface
+
 Easy to extend with new features
 
 Tech Stack
+
 Frontend: React.js, HTML, CSS, JavaScript
+
 Backend: Node.js, Express.js
 
-Database: MongoDB (if used)
+Database: MongoDB
 
 Installation
-Clone the repository:
-
 git clone https://github.com/NidhiMahyavanshi/chatbot.git
-
-
-Install backend dependencies:
 cd backend
 npm install
 npm start
-
-
-Install frontend dependencies:
-cd frontend
+cd ../frontend
 npm install
 npm start
-
-
-Open in browser: http://localhost:3000
-License
-MIT License
